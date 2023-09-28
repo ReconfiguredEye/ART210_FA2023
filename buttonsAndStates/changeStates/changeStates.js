@@ -26,6 +26,8 @@ function draw() {
   if(state === 0){
    button.show();
    button2.hide();
+   fill(155);
+   rectangle(100, 100, 50, 100);
   }
   else if (state === 1){
     button.hide();
