@@ -1,6 +1,6 @@
 let objectImages = [];
 let placeImages = [];
-let gridSize = 5;
+let gridSize = 15;
 let showObjects = false;
 let lastUpdateTime = 0;
 let updateInterval = 1000; // Time in milliseconds between updates
